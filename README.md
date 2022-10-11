@@ -1,2 +1,2 @@
 # ST-4-Project
-unzip the main file
+Extract the Project.zip
